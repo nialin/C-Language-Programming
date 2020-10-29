@@ -2,6 +2,9 @@
 
 #define unlikly(x) __builtin_expect(!!(x), 0)
 
+int my_pow(int base, int index)；
+int is_narcissus(int n)；
+
 int my_pow(int base, int index)
 {
 	int i, rslt = 1;
