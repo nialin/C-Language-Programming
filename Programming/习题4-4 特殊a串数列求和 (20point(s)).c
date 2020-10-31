@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-
 int main()
 {
 	long long i, tmp, a, n, sum;

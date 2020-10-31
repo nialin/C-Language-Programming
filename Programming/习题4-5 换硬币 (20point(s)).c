@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-
 int main()
 {
 	int x, x1, x2, x3, cnt = 0;
