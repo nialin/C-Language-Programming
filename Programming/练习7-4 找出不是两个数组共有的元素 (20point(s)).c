@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+int num_find(int *nums, int cnt, int n);
+
 int num_find(int *nums, int cnt, int n)
 {
 	int i;
