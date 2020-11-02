@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 int main()
 {
@@ -19,5 +20,7 @@ int main()
 	else
 		printf("index = %d\n", index);
 
+	free(line);
+	
 	return 0;
 }
